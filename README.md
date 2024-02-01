@@ -19,7 +19,7 @@
 
 
 ### 👨‍🔬: About Me :
-I am a scientist with expertise in data science <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif?cid=ecf05e4702sboqtp2y34oz6vrvhsv91iqwss6wv7cmv08tse&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">, neuroscience <img src="https://media.giphy.com/media/p24IfoBi3ojRgNhnMu/giphy.gif?cid=790b7611j9bktsz9dshebd5pso0mipi29qcsth3skx4w7k6h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">, and physics <img src="https://media.giphy.com/media/9oHZQ2gEez8ti/giphy.gif" width="30">.
+I am a scientist with expertise in data science <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif?cid=ecf05e4702sboqtp2y34oz6vrvhsv91iqwss6wv7cmv08tse&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">, neuroscience <img src="https://media.giphy.com/media/xThuWl1CsJUCg2qEDu/giphy.gif" width="30">, and physics <img src="https://media.giphy.com/media/9oHZQ2gEez8ti/giphy.gif" width="30">.
 
 <!--
 **fraziphy/fraziphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
