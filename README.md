@@ -18,7 +18,8 @@
 
 
 
-### :man_technologist: About Me :
+### 👨‍🔬: About Me :
+I am a scientist with expertise in data science <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=790b7611gf6zia1jckwuoelunbo9bl7wfjr6ah6s4on1oymq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">, neuroscience <img src="https://media.giphy.com/media/2bYewTk7K2No1NvcuK/giphy.gif?cid=790b7611ptqck4gye49mlb1ktjtigwrbwsafodzf7zzheh5b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">, and physics <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW0xbWdobGFyeWlxNjdxbGc1bzF3dGF5M2Q3azNodzdtZnB3bmxjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o65WgXSDBVY1G/giphy.gif" width="30">.
 
 <!--
 **fraziphy/fraziphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
