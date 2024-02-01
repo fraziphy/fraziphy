@@ -25,7 +25,7 @@ I am a scientist with expertise in data science <img src="https://media.giphy.co
   - 🤔 I’m an analytical thinker and problem-solver.
   - 🔭 I’m an expert in dynamical systems, machine learning, statistical analysis, data mining, and identifying data patterns.
   - 🌱 I’m proficient in Python and LaTeX.
-  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-razi-4666b9185/)
+  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-razi-4666b9185/)
   - ⚡ Fun fact: "I make jokes when I'm uncomfortable!"
 ---
 ### Professional Highlights 🌟
