@@ -17,7 +17,7 @@
 </div>
 
 ---
-###📍 Barcelona
+### 📍 Barcelona
 ---
 ### 👨‍🔬 About Me :
 I am a scientist with expertise in data science <img src="https://media.giphy.com/media/dtB7kgF86VwZWY5Iee/giphy.gif?cid=ecf05e4702sboqtp2y34oz6vrvhsv91iqwss6wv7cmv08tse&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">, neuroscience <img src="https://media.giphy.com/media/xThuWl1CsJUCg2qEDu/giphy.gif" width="30">, and physics <img src="https://media.giphy.com/media/9oHZQ2gEez8ti/giphy.gif" width="30">.
