@@ -3,7 +3,7 @@
 
   <div id="badges">
     <a href="mailto:farhad.razi.1988@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Gmail Badge" width="100px"/>
+      <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Gmail Badge" width="80px"/>
     </a>
     <a href="https://www.linkedin.com/in/farhad-razi-4666b9185/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
