@@ -3,13 +3,13 @@
 
   <div id="badges">
     <a href="mailto:farhad.razi.1988@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Gmail Badge"/ width="30px"/>
+      <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Gmail Badge" width="100px"/>
     </a>
     <a href="https://www.linkedin.com/in/farhad-razi-4666b9185/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="30px"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="www.youtube.com/@farhadrazi2562">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/ width="30px"/>
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
 
