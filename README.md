@@ -49,17 +49,17 @@ I am currently positioned as a postdoctoral researcher at the Donders Centre for
   - ⚡ Fun fact: "I make jokes when I'm uncomfortable!"
 ---
 ### 🌟 Professional Highlights :
-  - **Postdoctoral Researcher**, Donders Centre for Neuroscience, Netherlands
-  - **Doctoral Researcher**, ELISAVA Barcelona School of Design and Engineering, Spain
-  - **Doctoral Researcher**, Universitat Pompeu Fabra, Spain
-  - **Research Assistant**, Institute for Advanced Studies in Basic Sciences, Iran
-  - **Teaching Assistant**, University of Isfahan, Iran
+  - **Postdoctoral Researcher**, Donders Centre for Neuroscience ([DCN](https://www.ru.nl/en/donders-centre-for-neuroscience)), Netherlands
+  - **Doctoral Researcher**, ELISAVA Barcelona School of Design and Engineering ([ELISAVA](https://www.elisava.net/en/)), Spain
+  - **Doctoral Researcher**, Universitat Pompeu Fabra ([UPF](https://www.upf.edu/en/)), Spain
+  - **Research Assistant**, Institute for Advanced Studies in Basic Sciences ([IASBS](https://iasbs.ac.ir/)), Iran
+  - **Teaching Assistant**, University of Isfahan ([UI](https://ui.ac.ir/EN)), Iran
 ---
 ### 🎓 Education :
-  - **PhD in Computational Neuroscience**, Universitat Pompeu Fabra, Spain
-  - **One Year PhD Course in Physics**, Institute for Advanced Studies in Basic Sciences, Iran
-  - **Master’s Degree in Theoretical Physics**, Isfahan University of Technology, Iran
-  - **Bachelor’s Degree in Physics**, University of Isfahan, Iran
+  - **PhD in Computational Neuroscience**, Universitat Pompeu Fabra ([UPF](https://www.upf.edu/en/)), Spain
+  - **One Year PhD Course in Physics**, Institute for Advanced Studies in Basic Sciences ([IASBS](https://iasbs.ac.ir/)), Iran
+  - **Master’s Degree in Theoretical Physics**, Isfahan University of Technology ([IUT](https://english.iut.ac.ir/)), Iran
+  - **Bachelor’s Degree in Physics**, University of Isfahan ([UI](https://ui.ac.ir/EN)), Iran
 
 
 ---
