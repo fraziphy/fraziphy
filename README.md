@@ -5,7 +5,7 @@
     <a href="mailto:farhad.razi.1988@gmail.com">
       <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Gmail Badge" width="80px"/>
     </a>
-    <a href="https://www.linkedin.com/in/farhad-razi-4666b9185/">
+    <a href="https://www.linkedin.com/in/farhad-razi-phd-4666b9185/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="www.youtube.com/@farhadrazi2562">
@@ -31,7 +31,7 @@ I am a scientist with expertise in data science <img src="https://media.giphy.co
   - 🔭 My expertise lies in dynamical systems, machine learning, statistical analysis, data mining, and identifying data patterns.
   - 🌱 I’m proficient in Python and LaTeX.
   - 👨‍🎓 I am a constant learner. 
-  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-razi-4666b9185/)
+  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-razi-phd-4666b9185/)
   - ⚡ Fun fact: "I make jokes when I'm uncomfortable!"
 ---
 ### 🌟 Professional Highlights :
