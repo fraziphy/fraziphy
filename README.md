@@ -14,6 +14,12 @@
     <a href="https://scholar.google.com/citations?hl=en&user=c7rXh0cAAAAJ">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
     </a>
+    <a href="https://orcid.org/0000-0001-8857-1921">
+      <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="OrcID Badge"/>
+    </a>
+    <a href="https://x.com/FarhadRazi?t=gtqBg6O8EIJw-9oFckHALQ&s=03">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter) Badge"/>
+    </a>
     <a href="www.youtube.com/@farhadrazi2562">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
