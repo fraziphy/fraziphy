@@ -35,6 +35,7 @@ I am a scientist with expertise in data science <img src="https://media.giphy.co
   - ⚡ Fun fact: "I make jokes when I'm uncomfortable!"
 ---
 ### 🌟 Professional Highlights :
+  - **Postdoctoral Researcher**, Donders Centre for Neuroscience, Netherlands
   - **Doctoral Researcher**, ELISAVA Barcelona School of Design and Engineering, Spain
   - **Doctoral Researcher**, Universitat Pompeu Fabra, Spain
   - **Research Assistant**, Institute for Advanced Studies in Basic Sciences, Iran
