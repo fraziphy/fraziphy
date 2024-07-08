@@ -8,6 +8,12 @@
     <a href="https://www.linkedin.com/in/farhad-razi-phd-4666b9185/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.researchgate.net/profile/Farhad-Razi">
+      <img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/>
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=c7rXh0cAAAAJ">
+      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+    </a>
     <a href="www.youtube.com/@farhadrazi2562">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
